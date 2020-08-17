@@ -89,7 +89,7 @@ bintray {
     configurations = [ 'mavenJava' ]
     pkg {
         repo = 'mcmods.fabric'
-        name = 'lionutils'
+        name = 'lionutils-jankson'
         version {
             name = "${project.mod_version}"
             vcsTag = "v${project.mod_version}"
