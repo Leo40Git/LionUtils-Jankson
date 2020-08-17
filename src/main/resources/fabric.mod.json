@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "lionutils-jankson",
+  "version": "${version}",
+  "name": "LionUtils Jankson",
+  "description": "LionUtils extension that provides an ObjectFormat binding for Jankson.",
+  "authors": [
+    "ADudeCalledLeo"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/lionutils-jankson/icon.png",
+  "environment": "*",
+  "entrypoints": {},
+  "depends": {
+    "fabricloader": ">=0.9.1+build.205",
+    "minecraft": "1.16.2"
+  }
+}
