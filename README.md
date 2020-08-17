@@ -13,8 +13,8 @@ repositories {
 Then, to include it:
 ```gradle
 dependencies {
-  modApi "adudecalledleo.mcmods.fabric:lionutils-jankson:${project.lionutils_version}"
-  include "adudecalledleo.mcmods.fabric:lionutils-jankson:${project.lionutils_version}"
+  modApi "adudecalledleo.mcmods.fabric:lionutils-jankson:${project.lionutils_jankson_version}"
+  include "adudecalledleo.mcmods.fabric:lionutils-jankson:${project.lionutils_jankson_version}"
 }
 ```
 Make sure you also add [LionUtils](https://github.com/Leo40Git/LionUtils)!
